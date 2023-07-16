@@ -172,3 +172,6 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
  
 - Bit Manipulation Reading:
   https://www.youtube.com/watch?v=7jkIUgLC29I	
+
+
+## Week 3 
